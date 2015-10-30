@@ -1,0 +1,41 @@
+	h1 {font-size: 30px;}
+	h3 {color: white;}
+	p {color: white; font-size: 20px; font-family: roman;}
+	small {font-size: 15px;}
+	body {color: white;	font-size: 20px; background-color: #3D3D3D;}
+	hr {border-color: red;}
+	strong {font-weight: 900;}
+	img {padding-right: 15px; padding-left: 15px; float: left;}
+	
+	ul		{
+	list-style: none;
+	margin: 0 auto;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;}
+			ul li	{float: left; font-size: 19px;}
+			
+			#menu1	{ height: 25px; background-color:#0AC9C2; color: black;}
+			a.menuItems	{ text-decoration: none; color: black; }
+	
+	#title {font-size: 70px; margin: 5px;}
+	
+	section {float: left;}
+	
+	#indexArticle1	{float: left; margin: 10px;}
+	#indexHeader1	{float: left; margin: 10px;}
+	
+	div, header, article, section {margin: 5px;}
+	
+	#image1, #image2, #image3 {font-size: 20px;}
+	
+	#im1link, #im2link, #im3link, #im4link {color: white; font-size: 20px; font-family: roman;}
+	
+	#banners:hover {border: 2px solid #0AC9C2;}
+	
+	
+	#copyright	{
+			position: fixed; 
+            bottom: 5px;
+			text-align: center;
+			}
